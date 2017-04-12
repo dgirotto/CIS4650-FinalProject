@@ -1,0 +1,13 @@
+int a;
+int main(void){
+   int b;
+   {   
+      int c;
+   }
+   return 2;
+}
+int f;
+void add(int g, int h, int i){
+   int j;
+}
+int k;

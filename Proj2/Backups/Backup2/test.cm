@@ -1,0 +1,7 @@
+int ABC(void){
+return 1;
+}
+void DEF(void){
+}
+void TEST(int x){
+}

@@ -1,0 +1,14 @@
+
+int main(int x){
+int x;
+if(x=3)
+dothis();
+else
+dothat();
+somefun(x,y,z);
+
+
+return;
+}
+
+

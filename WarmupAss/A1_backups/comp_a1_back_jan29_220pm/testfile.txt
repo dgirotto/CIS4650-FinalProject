@@ -1,0 +1,4 @@
+<Doc> </Doc> < doc > < doc123 >
+a this-is-something this-is-wrong-format 1.1 -1.1 -0.9
+-0.0 100 .100 100. -100. -1230 -23.226 -34.0 -0.34
+2222 THISISAWORD -333 1ANOTHER2WORD3 ANOTHERWORD222

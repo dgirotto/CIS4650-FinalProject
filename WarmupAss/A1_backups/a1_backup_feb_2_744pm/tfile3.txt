@@ -1,0 +1,13 @@
+<doc>
+HEREISsomeTEXT
+123SOMEMORETEXT
+1234
+12.23
+<p>INSIDE PARAGRAPH</p>
+<length align="center"> <p color="red"> WHATSUP </p>
+</length>
+
+<byline> <garbage> SOME GARBAGE </garbage> <p> EATME </p>  </byline>
+
+<p> INSIDEAPARAGRAPH </p>
+</doc>

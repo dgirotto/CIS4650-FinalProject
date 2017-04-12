@@ -1,0 +1,10 @@
+void hello(int x, int y, int z){
+}
+
+void fun(void){
+
+}
+
+void test(int d){
+
+}

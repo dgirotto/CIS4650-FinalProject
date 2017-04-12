@@ -1,0 +1,22 @@
+int global;
+
+int main(void){
+   int x;
+   int y;
+   {
+      int x;
+      {
+         int y;
+         int global;
+      }
+   }
+   return y;
+}
+
+int globaltwo;
+
+void print(int x, int y, int z){
+   int r;
+   int s;
+   int t;
+}

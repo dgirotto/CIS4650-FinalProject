@@ -1,0 +1,13 @@
+int glob;
+
+int main(void){
+   int x;
+   print(x);
+return 0;
+}
+
+void print(int x, int x, int z){
+   output(x);
+   output(glob);
+   output(someVar);
+}

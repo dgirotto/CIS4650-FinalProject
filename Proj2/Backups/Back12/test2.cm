@@ -1,0 +1,12 @@
+int depthzero;
+int main(int someParam){
+   int inMain;
+   {
+      int depthtwo;
+      {
+         int depththree;
+      }
+   }
+return 0;
+}
+int anotherdepthzero;

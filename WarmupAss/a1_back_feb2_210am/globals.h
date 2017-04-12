@@ -1,0 +1,42 @@
+#ifndef _GLOBALS_H_
+#define _GLOBALS_H_
+
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctype.h>
+#include <string.h>
+
+#ifndef FALSE
+#define FALSE 0
+#endif
+
+#ifndef TRUE
+#define TRUE 1
+#endif
+
+#ifndef REL_TAG_CTR
+#define REL_TAG_CTR 7
+#endif
+
+extern FILE* source; /* source code text file */
+extern FILE* listing; /* listing output text file */
+extern int lineno; /* source line number for listing */
+extern char* relevantTags[];
+
+typedef enum{ 
+	OPENTAG=1, 
+	CLOSETAG,
+	WORD,
+	NUMBER, 
+	APOST, 
+	HYPHEN, 
+	PUNCT,
+	LSQBRK,
+	RSQBRK,
+
+	ENDFILE,
+	ERROR
+}TokenType;
+
+#endif

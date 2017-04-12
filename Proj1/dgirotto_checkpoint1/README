@@ -1,0 +1,4 @@
+1. Ensure the .tar.gz file is fully extracted 
+2. Enter the directory via command "cd dgirotto_checkpoint1"
+3. Execute the Makefile through typing "make"
+4. Run any of the example programs (i.e. "./cminus 1.cm")

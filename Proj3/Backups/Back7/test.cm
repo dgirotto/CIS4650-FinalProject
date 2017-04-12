@@ -1,0 +1,7 @@
+void main(){
+int sum;
+int x;
+int v;
+sum = v + x;
+return sum;
+}

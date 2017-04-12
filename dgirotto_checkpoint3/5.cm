@@ -1,0 +1,15 @@
+/*
+invalid IF and WHILE text expressions
+*/
+
+int main(){
+   int x[40];
+   void y;
+   if(y)
+      output(x);
+
+   while(y)
+      x[1] = x[1] + x[2];
+
+return;
+}

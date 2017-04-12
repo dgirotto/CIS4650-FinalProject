@@ -1,0 +1,11 @@
+void print(void){
+
+}
+
+void output(int x){
+   print(x);
+}
+int main(void){
+output(x);
+return 1;
+}

@@ -1,0 +1,11 @@
+/* errors: "return?" as opposed to "return;", and main() 
+is missing parameters (must at least have "void") */
+
+int main(){
+   int x;
+   int y;
+   if((y+2)<=(x+3))
+      x = 1000;
+
+   return?
+}

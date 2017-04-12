@@ -1,0 +1,10 @@
+<doc>
+	<p>
+		SOME TEXT HERE
+		A-HYPHEN
+	</p>
+	<byline>
+		HELLO
+	</byline>	
+</doc>
+

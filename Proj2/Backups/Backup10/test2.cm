@@ -1,0 +1,11 @@
+int firstvar;
+int test(void){
+return 1;
+}
+int secondvar;
+void main(void){
+
+}
+
+void paramFun(int someParam){
+}

@@ -1,0 +1,14 @@
+void dothis(void){}
+
+int abc;
+int global;
+
+void good(int x){
+
+}
+int ddd;
+void hello(int x, int y, int z){
+	int hello;
+	int good;
+	int bad;
+}

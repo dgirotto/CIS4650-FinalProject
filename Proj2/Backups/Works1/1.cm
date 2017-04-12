@@ -1,0 +1,26 @@
+int global;
+
+void print(int x, int y, int z){
+   int r;
+   {
+      output(r);
+      {
+         output(global);
+      }
+
+   }
+}
+
+int main(void){
+   int x;
+   int y;
+   {
+      int x;
+      {
+         int y;
+         int global;
+      }
+   }
+   print(x,y,global);
+   return y;
+}

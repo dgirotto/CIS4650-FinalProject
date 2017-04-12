@@ -1,0 +1,6 @@
+void main(void){
+int x;
+}
+
+void abc(int abc, int def){
+}

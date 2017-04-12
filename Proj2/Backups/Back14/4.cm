@@ -1,0 +1,21 @@
+/*
+main() attempts to pass "hello" as a parameter when it's in a different scope
+multiple definitions of "args"
+*/
+
+int someGlobal;
+
+int main(int args){
+   int args;
+   int someVar;
+   int anotherVar;
+   {
+      int someVar;
+      {
+         int hello;
+      }
+      output(hello);
+   }
+   output(someGlobal);
+return 0;
+}

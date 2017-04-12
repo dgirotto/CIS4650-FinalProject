@@ -1,0 +1,11 @@
+/*
+expression statement error inside main()
+function type error inside print
+*/
+
+void main(){
+void y; 
+  int x;
+   x = y*2+12;
+   output(x);
+}

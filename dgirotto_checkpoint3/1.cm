@@ -1,0 +1,33 @@
+/*
+shows symbol table working
+generates AST
+*/
+int global;
+
+void print(int x, int y, int z){
+   int r;
+   {
+      output(r);
+      {
+         output(global);
+      }
+
+   }
+   return 1;
+}
+
+int main(void){
+   int x;
+   int y;
+void t;
+   {
+      int x;
+      {
+         int y;
+         int global;
+      }
+   }
+   print(x,y);
+print(t,x,y);
+   return y;
+}

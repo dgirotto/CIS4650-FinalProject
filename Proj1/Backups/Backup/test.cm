@@ -1,0 +1,13 @@
+void main(void){
+int x;
+}
+
+
+void test(void){
+int y;
+int z;
+}
+
+void hello(void){
+
+}

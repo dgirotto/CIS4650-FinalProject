@@ -1,0 +1,18 @@
+<Doc >
+<doc>
+1a2b3c4d
+abc123
+1234ANOTHERWORD
+HELLOTHERE
+anotherstring
+.123
+0.123
+-1.123
+-1.
+23.
+-.123
+500010
+-233
+123.123
+son-in-law
+pre-med

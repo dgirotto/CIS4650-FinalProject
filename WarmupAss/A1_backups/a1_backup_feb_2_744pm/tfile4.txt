@@ -1,0 +1,14 @@
+<doc>
+	<p color="red"> DANIEL O'grady 34 -45.6 son-in-law </p>
+	<headline> THIS IS THE HEADLINE </HEAdline>
+	<byline attribute="value">
+		HELLO daughter-in-law
+		<p>
+			HELLO INSIDE PARAGRAPH
+		</p>
+	</byline>	
+	SUh dude
+	anotherword	
+	Dan'O'Simmons
+</doc>
+

@@ -1,0 +1,14 @@
+void addThis(int x){
+   if(x<3)
+      x=x+10;
+   else
+      x=x+5;
+}
+
+
+int main(void){
+   int x;
+   x = x + 2;
+   addThis(x);
+   return 0;
+}

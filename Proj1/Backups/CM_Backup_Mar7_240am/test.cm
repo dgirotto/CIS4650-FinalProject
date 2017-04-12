@@ -1,0 +1,14 @@
+/* this is a comment */
+/*
+int callThis(int sendBack){
+	sendBack = sendBack * 6;
+	return (sendBack+2);
+
+
+}
+*/
+void main(void){
+	int x;
+	x = 5 + 3;
+	output(callThis(12345));
+}

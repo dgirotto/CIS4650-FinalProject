@@ -1,0 +1,8 @@
+void main(){
+int sum;
+void x;
+int v;
+void a;
+sum = a + x;
+
+}

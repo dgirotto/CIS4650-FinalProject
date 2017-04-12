@@ -1,0 +1,19 @@
+/*
+parameter "x" inside the print() function is already defined as a parameter
+main() attempts to call the print() function, but it isn't defined yet
+print() attempts to output "someVar" which isn't defined 
+*/
+
+int glob;
+
+int main(void){
+   int x;
+   print(x);
+return 0;
+}
+
+void print(int x, int x, int z){
+   output(x);
+   output(glob);
+   output(someVar);
+}

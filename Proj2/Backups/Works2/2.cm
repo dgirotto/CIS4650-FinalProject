@@ -1,0 +1,23 @@
+/* 
+"global" is declared multiple times
+"x" is declared multiple times
+"y" is declared multipe times
+main() calls a function that does not exist 
+a function which does not exist passes a value which is out of scope
+*/
+
+int global;
+int global;
+int a;
+
+void main(void){
+   int a;
+   int x;
+   int x;
+   {
+      int x;
+      int y;
+      int y;
+   }
+   doesNotExist(y);
+}

@@ -1,0 +1,13 @@
+/* errors: no commas separating each parameter in 
+"callThis()" and "return 0?" inside main */
+
+void callThis(int z int y int x){
+   int product;
+   product = z*x*y;
+   output(product);
+}
+
+int main(void){
+   callThis();
+   return 0?
+}

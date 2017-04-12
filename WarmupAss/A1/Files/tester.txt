@@ -1,0 +1,27 @@
+NUMBER TESTING:
+0.0
+0.1
+-.1
+-222.1
+-345
+345.30
+45.
+23450
+
+WORD TESTING:
+thisisaword
+word
+123word
+a1s2f3
+abc123
+
+PUNCTUATION:
+, . ] [ { } ; " ' \ | * & % $ # @ !
+<< { { >> <\
+APOST:
+hey'man what's bill'o'grady
+
+HYPHEN:
+this-is-a bro-in-law tag-name suh-dude- -whats-up
+
+

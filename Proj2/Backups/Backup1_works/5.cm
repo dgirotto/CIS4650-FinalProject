@@ -1,0 +1,27 @@
+/* ERRORS:
+parameters in addThese() not separated by commas
+"# p" is an invalid var declaration 
+no parameters in main()
+"return?" as opposed to "return;" in main()
+*/
+
+void addThese(int x int y){
+   # p;
+   int z;
+   input(z);
+
+   while(z < 100)
+      z = x+y;
+
+   output(z);
+}
+
+
+int main(){
+   int x;
+   int y;
+
+   addThese(x,y);
+
+return?
+}

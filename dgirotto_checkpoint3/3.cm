@@ -1,0 +1,11 @@
+/*
+return statement incorrect
+x and y are different data types; returns type checking error
+*/
+
+int main(){
+   int x;
+   void y;
+   x = 2;
+return x+y;
+}

@@ -1,0 +1,15 @@
+<doc>
+	<p>
+		SOME TEXT HERE
+		A-HYPHEN
+		1234.1234
+		abc123
+	</p>
+	<byline>
+		HELLO
+		<p>
+			HELLO INSIDE PARAGRAPH
+		</p>
+	</byline>	
+</doc>
+

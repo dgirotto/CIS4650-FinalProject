@@ -1,0 +1,10 @@
+<doc>
+
+<length> <p> HELLO </p> </length>
+
+<byline> <p> HEY <p> <date> JAN 11, 2003 </byline> </date>
+
+HEY YOU MANG
+
+
+</doc>

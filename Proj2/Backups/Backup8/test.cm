@@ -1,0 +1,7 @@
+int global;
+int x;
+void anotherFn(void){
+}
+void main(void){
+int y;
+}

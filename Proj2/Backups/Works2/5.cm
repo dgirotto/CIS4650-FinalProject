@@ -1,0 +1,26 @@
+int add(int a, int b){
+   int b;
+   {
+      int b;
+      int c;
+      int p;
+      {
+         int r;
+      }
+   }
+return a;
+}
+
+int main(int argv){
+   {
+      int p;
+      {
+         int q;
+         output(p);
+      }
+      output(q);
+   } 
+   add(argv,argv);
+   subtract(y,p);
+return 0;
+}

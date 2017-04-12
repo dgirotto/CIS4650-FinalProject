@@ -1,0 +1,19 @@
+/* 
+redefined variables (y)
+array p index out of range 
+two sides of assignment incorrect types (sum = othersum + x)
+*/
+
+void main(void){
+   int x;
+   int y;
+   int y;
+   int sum;
+   void othernum;
+   int p[10];
+
+   sum = othernum;
+
+   output(p[othernum]);
+
+}

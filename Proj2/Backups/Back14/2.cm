@@ -1,0 +1,12 @@
+int global;
+int global;
+int a;
+void main(void){
+   int x;
+   int x;
+   {
+      int x;
+      int y;
+      int y;
+   }
+}

@@ -1,0 +1,5 @@
+int abc;
+int main(void){
+   int abc;
+   return 0;
+}

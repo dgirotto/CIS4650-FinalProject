@@ -1,0 +1,10 @@
+/* error in return statement; should read "return x;" */
+
+int main(void){
+   int x;
+
+   while(x<10)
+      x = x*x;
+
+   return x?
+}
